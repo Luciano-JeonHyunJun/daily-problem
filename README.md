@@ -8,4 +8,11 @@
 ## rule
 만약 문제를 하루에 3개씩 못풀었다면 우선 찾은 코드로 대체하고 문제 설명을 하단부에 적어둡니다.
 
-# 2021.11.02
+# Date
+
+## November
+
+11 / 02 : <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.02/10809.cpp">No.10809</a> 
+<a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.02/2675.cpp">No.2675</a>
+<a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.02/1157.cpp">No.1157</a>
+
