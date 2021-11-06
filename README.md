@@ -31,3 +31,8 @@
 + <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.05/2292.cpp">No.2292</a><br>
 + <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.05/1193.cpp">No.1193</a><br>
 + <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.05/2869.cpp">No.2869</a>
+
+11 / 06
++ <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/10250.cpp">No.10250</a><br>
++ <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/2775.cpp">No.2775</a><br>
++ <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/2839.cpp">Np.2839</a>
