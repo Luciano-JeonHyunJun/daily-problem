@@ -35,4 +35,4 @@
 11 / 06
 + <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/10250.cpp">No.10250</a><br>
 + <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/2775.cpp">No.2775</a><br>
-+ <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/2839.cpp">Np.2839</a>
++ <a href="https://github.com/Luciano-JeonHyunJun/daily-problem/blob/main/21.11.06/2839.cpp">No.2839</a>
